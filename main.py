@@ -1,7 +1,6 @@
 from tkinter import *
 from time import sleep
 
-
 root = Tk()
 root.title('Eaglercraft 1.20')
 root.geometry('800x600')
@@ -160,7 +159,5 @@ login_label.pack()
 class EntryBar:
     def __init__(self, x, y):
         pass
-
-
 
 root.mainloop()
