@@ -3,12 +3,9 @@ NOTE: PLEASE FORK THIS PROJECT!!! 🍴
 -
 ## 😎 Let me introduce you to Eaglercraft 1.20!
 
-
 ### Eaglercraft 1.20 is Eaglercraft BUT written in Python and will be ported to HTML! 🔌
 
-
 ## 🎮 Eaglercraft 1.20 is different from other Eaglercraft clients because:
-
 
 ### **Instant boot time** ⏩
 ### Newer version of Eaglercraft ✨
@@ -17,7 +14,6 @@ NOTE: PLEASE FORK THIS PROJECT!!! 🍴
 ### Pets for your avatar 🐶
 ### Infinite world 🌍
 ### Runs smoothly on Chromebooks 💻
-
 
 # Devs 🛠️
 ## 👨‍💻 AR-DEV-1
@@ -67,8 +63,7 @@ NOTE: PLEASE FORK THIS PROJECT!!! 🍴
 ### 🚨 Has been working on Eaglercraft since Lax1Dude
 ### 🎤 Holds the title for the fourth Eaglerbrother™ (first was AR-DEV-1)
 
-
-## **🚨 Mojang DMCA Notice 🚨*
+## 🚨 Mojang DMCA Notice 🚨
 ### If you are willing to shut us down then PLEASE read BtPlayzX's DMCA complaint [here](https://github.com/EaglerDevs/Dear-Mojang-via-Eaglercraft)
 
 ### If you are still unconvinced, read Lax1Dude's heartfelt plea [here](https://github.com/lax1dude/eaglercraftx-1.8).
